@@ -30,7 +30,7 @@ In order for the music to play, you **must** create a folder in your project cal
 project:
   type: website
 
-copy:
+resources:
   - assets
 ```
 
