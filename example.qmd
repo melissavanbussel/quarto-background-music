@@ -1,0 +1,11 @@
+---
+title: "Quarto Background Music Example"
+filters:
+  - quarto-background-music
+---
+
+## This is just a page
+
+Which has some music playing in the background. The music playing is from the `assets/audio.mp3` file.
+
+
